@@ -354,10 +354,10 @@ function kyun(seconds){
 // info bot 
 const bottt = (prefix) => {
 return `
-\`\`\`Untuk Sekarang Bot Hanya Bisa Digunakan Di Group Karna\`\`\` *KUOTA MAHAL*\n\n *Mohon Pengertiannya*
-Sekali Lagi Maaf
+\`\`\`Por enquanto, o bot só pode ser usado no grupo Alnbots\`\`\` *COTA CARA*\n\n *Por favor entenda*
+Mais uma vez eu sinto muito
 
-Jika Bot Ini Ada Di Grup Anda Admin Grup Suruh Aktifkan Bot Dengan Cara ${prefix}bott aktif
+Se este bot estiver em seu grupo de administração, diga para ativar o bot por via ${prefix}bott aktif
 `
 }
 exports.bottt = bottt
